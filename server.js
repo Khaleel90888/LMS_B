@@ -8,7 +8,7 @@ import dotenv from "dotenv";
 import { testConnection } from "./database/connection.js";
 import { errorHandler } from "./middleware/errorHandler.js";
 import routes from "./routes/index.js";
-
+//OK
 // Load environment variables
 dotenv.config();
 
